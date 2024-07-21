@@ -1,4 +1,4 @@
-import { PhantomProvider } from '../lib/types';
+import { PhantomProvider } from '../types/types';
 
 /**
  * Retrieves the Phantom Provider from the window object
